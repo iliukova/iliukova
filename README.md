@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iliukova
-- 👀 I’m interested in UA/UX design.
-- 🌱 I’m currently learning Html, Css, JS.
+- 👀 I’m interested in Python and UA/UX design.
+- 🌱 I’m currently learning Html, Css, JS, Python.
 
 
 <!---
